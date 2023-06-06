@@ -1,0 +1,398 @@
+{
+	"pessoas": [
+		{
+			"id": 1,
+			"nome": "Maria Silva",
+			"idade": 45,
+			"cidade": "São Paulo",
+			"profissão": "Engenheira"
+		},
+		{
+			"id": 2,
+			"nome": "João Costa",
+			"idade": 30,
+			"cidade": "Rio de Janeiro",
+			"profissão": "Professor"
+		},
+		{
+			"id": 3,
+			"nome": "Antônio Martins",
+			"idade": 27,
+			"cidade": "Salvador",
+			"profissão": "Médico"
+		},
+		{
+			"id": 4,
+			"nome": "Juliana Soares",
+			"idade": 35,
+			"cidade": "Fortaleza",
+			"profissão": "Advogada"
+		},
+		{
+			"id": 5,
+			"nome": "Renata Almeida",
+			"idade": 29,
+			"cidade": "Manaus",
+			"profissão": "Analista de Sistemas"
+		},
+		{
+			"id": 6,
+			"nome": "Carlos Oliveira",
+			"idade": 42,
+			"cidade": "Curitiba",
+			"profissão": "Dentista"
+		},
+		{
+			"id": 7,
+			"nome": "Lucas Menezes",
+			"idade": 34,
+			"cidade": "Belo Horizonte",
+			"profissão": "Arquiteto"
+		},
+		{
+			"id": 8,
+			"nome": "Patricia Gomes",
+			"idade": 39,
+			"cidade": "Recife",
+			"profissão": "Psicóloga"
+		},
+		{
+			"id": 9,
+			"nome": "Rafael Santos",
+			"idade": 36,
+			"cidade": "Porto Alegre",
+			"profissão": "Jornalista"
+		},
+		{
+			"id": 10,
+			"nome": "Fernanda Rodrigues",
+			"idade": 33,
+			"cidade": "Florianópolis",
+			"profissão": "Designer Gráfico"
+		}
+	],
+	"frutas": [
+		{
+			"id": 1,
+			"nome": "Maçã",
+			"cor": "Vermelho",
+			"sabor": "Doce"
+		},
+		{
+			"id": 2,
+			"nome": "Banana",
+			"cor": "Amarelo",
+			"sabor": "Doce"
+		},
+		{
+			"id": 3,
+			"nome": "Laranja",
+			"cor": "Laranja",
+			"sabor": "Cítrico"
+		},
+		{
+			"id": 4,
+			"nome": "Abacaxi",
+			"cor": "Amarelo",
+			"sabor": "Cítrico"
+		},
+		{
+			"id": 5,
+			"nome": "Morango",
+			"cor": "Vermelho",
+			"sabor": "Doce"
+		},
+		{
+			"id": 6,
+			"nome": "Limão",
+			"cor": "Verde",
+			"sabor": "Cítrico"
+		},
+		{
+			"id": 7,
+			"nome": "Kiwi",
+			"cor": "Marrom",
+			"sabor": "Doce"
+		},
+		{
+			"id": 8,
+			"nome": "Melancia",
+			"cor": "Verde",
+			"sabor": "Doce"
+		},
+		{
+			"id": 9,
+			"nome": "Abacate",
+			"cor": "Verde",
+			"sabor": "Neutro"
+		},
+		{
+			"id": 10,
+			"nome": "Pêssego",
+			"cor": "Laranja",
+			"sabor": "Doce"
+		},
+		{
+			"id": 11,
+			"nome": "Melão",
+			"cor": "Amarelo",
+			"sabor": "Doce"
+		},
+		{
+			"id": 12,
+			"nome": "Manga",
+			"cor": "Laranja",
+			"sabor": "Doce"
+		},
+		{
+			"id": 13,
+			"nome": "Maracujá",
+			"cor": "Laranja",
+			"sabor": "Cítrico"
+		},
+		{
+			"id": 14,
+			"nome": "Ameixa",
+			"cor": "Roxo",
+			"sabor": "Doce"
+		},
+		{
+			"id": 15,
+			"nome": "Pêra",
+			"cor": "Verde",
+			"sabor": "Doce"
+		}
+	],
+	"carros": [
+		{
+			"id": 1,
+			"marca": "Ford",
+			"modelo": "Mustang",
+			"ano": 2023,
+			"dataDeLancamento": "2022-09-15",
+			"importado": true,
+			"valor": 150000.0
+		},
+		{
+			"id": 2,
+			"marca": "Chevrolet",
+			"modelo": "Camaro",
+			"ano": 2023,
+			"dataDeLancamento": "2022-10-10",
+			"importado": true,
+			"valor": 160000.0
+		},
+		{
+			"id": 3,
+			"marca": "Volkswagen",
+			"modelo": "Golf",
+			"ano": 2022,
+			"dataDeLancamento": "2021-06-30",
+			"importado": false,
+			"valor": 70000.0
+		},
+		{
+			"id": 4,
+			"marca": "Ferrari",
+			"modelo": "488 Spider",
+			"ano": 2023,
+			"dataDeLancamento": "2022-07-20",
+			"importado": true,
+			"valor": 1200000.0
+		},
+		{
+			"id": 5,
+			"marca": "Toyota",
+			"modelo": "Corolla",
+			"ano": 2023,
+			"dataDeLancamento": "2022-09-15",
+			"importado": false,
+			"valor": 90000.0
+		},
+		{
+			"id": 6,
+			"marca": "Hyundai",
+			"modelo": "HB20",
+			"ano": 2023,
+			"dataDeLancamento": "2022-08-15",
+			"importado": false,
+			"valor": 50000.0
+		},
+		{
+			"id": 7,
+			"marca": "Honda",
+			"modelo": "Civic",
+			"ano": 2022,
+			"dataDeLancamento": "2021-10-05",
+			"importado": false,
+			"valor": 80000.0
+		},
+		{
+			"id": 8,
+			"marca": "BMW",
+			"modelo": "M3",
+			"ano": 2023,
+			"dataDeLancamento": "2022-07-25",
+			"importado": true,
+			"valor": 230000.0
+		},
+		{
+			"id": 9,
+			"marca": "Mercedes-Benz",
+			"modelo": "C200",
+			"ano": 2023,
+			"dataDeLancamento": "2022-09-01",
+			"importado": true,
+			"valor": 180000.0
+		},
+		{
+			"id": 10,
+			"marca": "Audi",
+			"modelo": "A4",
+			"ano": 2023,
+			"dataDeLancamento": "2022-09-15",
+			"importado": true,
+			"valor": 140000.0
+		},
+		{
+			"id": 11,
+			"marca": "Porsche",
+			"modelo": "911",
+			"ano": 2023,
+			"dataDeLancamento": "2022-08-20",
+			"importado": true,
+			"valor": 300000.0
+		},
+		{
+			"id": 12,
+			"marca": "Jeep",
+			"modelo": "Renegade",
+			"ano": 2023,
+			"dataDeLancamento": "2022-10-01",
+			"importado": false,
+			"valor": 80000.0
+		}
+	],
+	"animais": [
+		{
+			"id": 1,
+			"nome": "Leão",
+			"especie": "Panthera leo",
+			"idade": 5
+		},
+		{
+			"id": 2,
+			"nome": "Tigre",
+			"especie": "Panthera tigris",
+			"idade": 4
+		},
+		{
+			"id": 3,
+			"nome": "Elefante",
+			"especie": "Elephas maximus",
+			"idade": 10
+		},
+		{
+			"id": 4,
+			"nome": "Canguru",
+			"especie": "Macropus rufus",
+			"idade": 6
+		},
+		{
+			"id": 5,
+			"nome": "Pinguim",
+			"especie": "Aptenodytes forsteri",
+			"idade": 3
+		},
+		{
+			"id": 6,
+			"nome": "Girafa",
+			"especie": "Giraffa camelopardalis",
+			"idade": 7
+		},
+		{
+			"id": 7,
+			"nome": "Urso",
+			"especie": "Ursus arctos",
+			"idade": 10
+		},
+		{
+			"id": 8,
+			"nome": "Zebra",
+			"especie": "Equus quagga",
+			"idade": 5
+		},
+		{
+			"id": 9,
+			"nome": "Rinoceronte",
+			"especie": "Rhinoceros unicornis",
+			"idade": 12
+		},
+		{
+			"id": 10,
+			"nome": "Hipopótamo",
+			"especie": "Hippopotamus amphibius",
+			"idade": 8
+		},
+		{
+			"id": 11,
+			"nome": "Macaco",
+			"especie": "Macaca fascicularis",
+			"idade": 6
+		},
+		{
+			"id": 12,
+			"nome": "Lobo",
+			"especie": "Canis lupus",
+			"idade": 7
+		},
+		{
+			"id": 13,
+			"nome": "Cobra",
+			"especie": "Python molurus",
+			"idade": 5
+		},
+		{
+			"id": 14,
+			"nome": "Crocodilo",
+			"especie": "Crocodylus niloticus",
+			"idade": 9
+		},
+		{
+			"id": 15,
+			"nome": "Javali",
+			"especie": "Sus scrofa",
+			"idade": 6
+		},
+		{
+			"id": 16,
+			"nome": "Búfalo",
+			"especie": "Bubalus bubalis",
+			"idade": 10
+		},
+		{
+			"id": 17,
+			"nome": "Avestruz",
+			"especie": "Struthio camelus",
+			"idade": 7
+		},
+		{
+			"id": 18,
+			"nome": "Antílope",
+			"especie": "Antilope cervicapra",
+			"idade": 6
+		},
+		{
+			"id": 19,
+			"nome": "Guaxinim",
+			"especie": "Procyon lotor",
+			"idade": 3
+		},
+		{
+			"id": 20,
+			"nome": "Lince",
+			"especie": "Lynx lynx",
+			"idade": 4
+		}
+	]
+}
