@@ -1,0 +1,53 @@
+[
+	{
+		"nome": "sergio",
+		"idade": 38,
+		"carros": [
+			"honda",
+			"siena",
+			"golf",
+			"bmw"
+		],
+		"endereco": {
+			"rua": "rua 1",
+			"numero": 70
+		},
+		"filhos": [ 
+			{
+				"nome": "ana",
+				"idade": 3,
+				"teste": ["1", "2", "3"]
+			},
+			{
+				"nome": "pedro",
+				"idade": 5,
+				"teste": ["4", "5", "6"]
+			}
+		]
+	},
+	{
+		"nome": "matheus",
+		"idade": 30,
+		"carros": [
+			"Ferrari",
+			"Fusca",
+			"Opala"
+		],
+		"endereco": {
+			"rua": "rua 2",
+			"numero": 123
+		},
+		"filhos": [
+			{
+				"nome": "Davi",
+				"idade": 6,
+				"teste": ["7", "8", "9"]
+			},
+			{
+				"nome": "Jade",
+				"idade": 1,
+				"teste": ["10", "11", "12"]
+			}
+		]
+	}
+]

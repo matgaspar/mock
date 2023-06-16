@@ -1,0 +1,19 @@
+{
+	"school": {
+		"id": 1,
+		"name": "Escola 1",
+		"students": 3216,
+		"classrooms": 21
+	},
+	"student": {
+		"id": 1,
+		"name": "Aluno 1",
+		"age": 20,
+		"grade": "A",
+		"isEnrolled": true
+	},
+	"teacher": {
+		"id": 1,
+		"name": "Professor 1"
+	}
+}
